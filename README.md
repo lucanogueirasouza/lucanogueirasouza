@@ -26,7 +26,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple"/>
 </div>
 
-## **My Projects**
+## **My School/Personal Projects:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=cpf-validator&theme=midnight-purple)](https://github.com/lucanogueirasouza/cpf-validator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
