@@ -21,7 +21,7 @@
 ## **My GitHub Stats:**
 
 <div>
-<a href="https://github.com/lhnl007hm">
+<a href="https://github.com/lucanogueirasouza">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple"/>
 </div>
