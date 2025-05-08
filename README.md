@@ -11,7 +11,7 @@
   
 </div>
 
-## **My GitHub**
+## **My GitHub:**
 
 <div>
 <a href="https://github.com/lhnl007hm">
