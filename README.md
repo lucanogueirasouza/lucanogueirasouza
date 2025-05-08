@@ -18,10 +18,20 @@
 </div>
 
 
-## **My GitHub:**
+## **My GitHub Stats:**
 
 <div>
 <a href="https://github.com/lhnl007hm">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple"/>
 </div>
+
+## **My Projects**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=cpf-validator&theme=midnight-purple)](https://github.com/lucanogueirasouza/cpf-validator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=questions-and-answers&theme=midnight-purple)](https://github.com/lucanogueirasouza/questions-and-answers)
+
+
+
+
