@@ -3,7 +3,6 @@
 - 🕓 16 Years Old 
 - 💻 Developer Back-End
 - 🐍 Studying Python
-- ✉️ Contact: lucanogueira.desouza@gmail.com
 
 <div> 
   <a href = "mailto:lucanogueira.desouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
