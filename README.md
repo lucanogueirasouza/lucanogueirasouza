@@ -15,7 +15,7 @@
  
 <div> 
   <a href = "mailto:lucanogueira.desouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luca-nogueira-de-souza-26768135a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucanogueirasouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://linktr.ee/lucanogueirasouza"><img src="https://img.shields.io/badge/-Linktree-%23333?style=for-the-badge&logo=linktr.ee&logoColor=white" target="_blank"></a>
   
 </div>
