@@ -7,6 +7,8 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Luca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Luca-Git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
+    <img align="center" alt="Luca-GitHub" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
 </div>
 
   ## Personal Contacs:
