@@ -33,7 +33,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=cpf-validator&theme=midnight-purple)](https://github.com/lucanogueirasouza/cpf-validator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=questions-and-answers&theme=midnight-purple)](https://github.com/lucanogueirasouza/questions-and-answers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple)](https://github.com/lucanogueirasouza/tamagotchi-game/blob/main/tamagotchi%20game.py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=alphabet&theme=midnight-purple)](https://github.com/lucanogueirasouza/alphabet/tree/main)
 
 
