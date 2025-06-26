@@ -2,7 +2,7 @@
 
 - 🕓 16 Years Old 
 - 💻 Developer Back-End
-- 🐍 Studying Python
+- 🐍 Studying Python, JavaScript, HTML (...)
 - 📍 São Paulo, Brazil
 
 <div style="display: inline_block"><br>
