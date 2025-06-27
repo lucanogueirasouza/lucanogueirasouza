@@ -1,7 +1,7 @@
 ## Hello! I'm Luca Nogueira, and that's my github :)
 
 - 🕓 16 Years Old 
-- 💻 Developer Back-End
+- 💻 Developer Full-Stack
 - 🐍 Studying Python, JavaScript, HTML (...)
 - 📍 São Paulo, Brazil
 
