@@ -5,56 +5,63 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:contatolucanogueira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/lucanogueiradev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://linktr.ee/lucanogueirasouza">
+    <img src="https://img.shields.io/badge/Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://discord.com/users/981396679779581972">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm working on personal/school projects to improve my skills
-- 📚 Currently learning Python, JavaScript, HTML, Git and GitHub
-- 🎯 Passionate about technology, logic and clean code
-- 🚀 Exploring the world of full-stack development
+- 🔭 I'm working on personal/school projects to improve my skills  
+- 📚 Currently learning Python, JavaScript, HTML, Git and GitHub  
+- 🎯 Passionate about technology, logic and clean code  
+- 🚀 Exploring the world of full-stack development  
+- 🎮 I really enjoy playing video games  
+- 📖 I love reading books — especially classics, fantasy and romantic
 
 ---
 
 ### 🧰 Tech Stack
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
-  <img align="center" alt="GitHub" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
-  <img align="center" alt="JS" height="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
-  <img align="center" alt="HTML" height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="HTML" width="40" height="40"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+</p>
 
 ---
 
 ### 🚧 Personal Projects
 
-[![Bank Project](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple)](https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO)
-
-[![Login Screen](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
-
-[![Tamagotchi Game](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple)](https://github.com/lucanogueirasouza/tamagotchi-game)
-
+[![Bank Project](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple)](https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO)  
+[![Login Screen](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)  
+[![Tamagotchi Game](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple)](https://github.com/lucanogueirasouza/tamagotchi-game)  
 [![Alphabet](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=alphabet&theme=midnight-purple)](https://github.com/lucanogueirasouza/alphabet/tree/main)
 
 ---
 
 <p align="center">
-  📖 "books don't change the world, books change people, people change the world."  
+  📖 "Books don't change the world, books change people, people change the world."
 </p>
