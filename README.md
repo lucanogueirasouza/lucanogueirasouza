@@ -1,56 +1,60 @@
-## Hello! I'm Luca Nogueira, and that's my github :)
+<h1 align="center">Hey, I'm Luca Nogueira 👋</h1>
 
-- 🕓 16 Years Old 
-- 💻 Developer Full-Stack
-- 🐍 Studying Python, JavaScript, HTML (...)
-- 📍 São Paulo, Brazil
+<p align="center">
+  🌍 São Paulo, Brazil • 🧠 16 Years old • 💻 Full-Stack Developer  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I'm working on personal/school projects to improve my skills
+- 📚 Currently learning Python, JavaScript, HTML, Git and GitHub
+- 🎯 Passionate about technology, logic and clean code
+- 🚀 Exploring the world of full-stack development
+
+---
+
+### 🧰 Tech Stack
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Luca-Python" height="30" width="40" src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667">
-    <img align="center" alt="Luca-Git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
-    <img align="center" alt="Luca-GitHub" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
-    <img align="center" alt="Luca-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
-    <img align="center" alt="Luca-JavaHTML" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png">
-    
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
+  <img align="center" alt="GitHub" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+  <img align="center" alt="JS" height="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
+  <img align="center" alt="HTML" height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png">
 </div>
 
-  ## Personal Contacs:
- 
-<div> 
-  <a href="mailto:lucanogueira.desouza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+---
 
-  <a href="https://www.linkedin.com/in/lucanogueiradev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+### 📊 GitHub Stats
 
-  <a href="https://linktr.ee/lucanogueirasouza" target="_blank">
-    <img src="https://img.shields.io/badge/-Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+---
 
-  
-</div>
+### 🚧 Personal Projects
 
+[![Bank Project](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple)](https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO)
 
-## **My GitHub Stats:**
+[![Login Screen](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
 
-<div>
-<a href="https://github.com/lucanogueirasouza">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple"/>
-</div>
+[![Tamagotchi Game](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple)](https://github.com/lucanogueirasouza/tamagotchi-game)
 
-## **My School/Personal Projects:**
+[![Alphabet](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=alphabet&theme=midnight-purple)](https://github.com/lucanogueirasouza/alphabet/tree/main)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple)](https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple)](https://github.com/lucanogueirasouza/tamagotchi-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=alphabet&theme=midnight-purple)](https://github.com/lucanogueirasouza/alphabet/tree/main)
+---
 
-
-
-
-
+<p align="center">
+  📖 "books don't change the world, books change people, people change the world."  
+</p>
