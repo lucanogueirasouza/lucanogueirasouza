@@ -37,8 +37,6 @@
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 2rem;">
