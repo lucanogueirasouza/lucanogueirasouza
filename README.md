@@ -46,21 +46,41 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 2rem;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucanogueirasouza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple" />
+</div>
 
 ---
 
 ### 🚧 Personal Projects
 
-[![Bank Project](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple)](https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO)  
-[![Login Screen](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)  
-[![Tamagotchi Game](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple)](https://github.com/lucanogueirasouza/tamagotchi-game)  
-[![Alphabet](https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=alphabet&theme=midnight-purple)](https://github.com/lucanogueirasouza/alphabet/tree/main)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
+
+  <div style="display: flex; gap: 2rem;">
+    <a href="https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple" />
+    </a>
+    <a href="https://github.com/lucanogueirasouza/login-screen-for-websites">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple" />
+    </a>
+  </div>
+
+  <div style="display: flex; gap: 2rem;">
+    <a href="https://github.com/lucanogueirasouza/tamagotchi-game">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple" />
+    </a>
+    <a href="https://github.com/lucanogueirasouza/alphabet/tree/main">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=alphabet&theme=midnight-purple" />
+    </a>
+  </div>
+
+</div>
+
 
 ---
 
