@@ -30,9 +30,9 @@
 - 🔭 I am working on personal/school projects to improve my skills
 - 📚 Currently learning Python, JavaScript, HTML, Git and GitHub
 - 🎯 Passionate about technology, logic and learning new things
-- 🚀 Exploring the world of full-stack development
-- 🎮 I like to play video game in free time
-- 📖 I love reading — books especially classic, fantasy and romantic  
+- 🎓 Full-Stack Developer in progress
+- 🎮 I enjoy playing video games in my free time
+- 📖 Book lover — fantasy, classics, romance   
 
 ---
 
