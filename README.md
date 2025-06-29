@@ -7,9 +7,8 @@
 </p>
 
 <div align="center">
-<a href="mailto:contatolucanogueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://www.linkedin.com/in/lucanogueiradev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://linktr.ee/lucanogueirasouza"><img src="https://img.shields.io/badge/Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a><a href="https://discord.com/users/981396679779581972"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:contatolucanogueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://www.linkedin.com/in/lucanogueiradev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://linktr.ee/lucanogueirasouza"><img src="https://img.shields.io/badge/Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a><a href="https://discord.com/users/981396679779581972"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><a href="https://www.skoob.com.br/usuario/view/LucaNogueira"><img src="https://img.shields.io/badge/Skoob-2F8900?style=for-the-badge&logo=book&logoColor=white" alt="Skoob"></a>
 </div>
-
 ---
 
 <img align="right" src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="370"/>
