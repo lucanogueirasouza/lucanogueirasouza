@@ -17,9 +17,20 @@
   ## Personal Contacs:
  
 <div> 
-  <a href = "mailto:lucanogueira.desouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucanogueiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://linktr.ee/lucanogueirasouza"><img src="https://img.shields.io/badge/-Linktree-%23333?style=for-the-badge&logo=linktr.ee&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucanogueira.desouza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/lucanogueiradev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+
+  <a href="https://linktr.ee/lucanogueirasouza" target="_blank">
+    <img src="https://img.shields.io/badge/-Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+</div>
+
+
   
 </div>
 
