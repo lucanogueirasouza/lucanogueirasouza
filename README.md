@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I am working on personal/school projects to improve my skills
-- 📚 Currently learning Python, JavaScript, HTML5, CSS Git and GitHub
+- 📚 Currently learning Python, JavaScript, HTML5, CSS, Git and GitHub
 - 🎯 Passionate about technology, logic and learning new things
 - 🎓 Full-Stack Developer in progress
 - 🎮 I enjoy playing video games in my free time
