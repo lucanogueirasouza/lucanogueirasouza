@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I am working on personal/school projects to improve my skills
-- 📚 Currently learning Python, JavaScript, HTML, Git and GitHub
+- 📚 Currently learning Python, JavaScript, HTML5, CSS Git and GitHub
 - 🎯 Passionate about technology, logic and learning new things
 - 🎓 Full-Stack Developer in progress
 - 🎮 I enjoy playing video games in my free time
@@ -33,6 +33,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="HTML" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
 ---
