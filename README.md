@@ -36,6 +36,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg" alt="JavaScript" width="80" height="80"/>
+  <img src="https://logolook.net/wp-content/uploads/2023/10/Docker-Logo.png" alt="JavaScript" width="80" height="80"/>
 </p>
 
 ---
