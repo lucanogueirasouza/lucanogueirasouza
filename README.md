@@ -29,14 +29,14 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="HTML" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg" alt="JavaScript" width="80" height="80"/>
   <img src="https://logolook.net/wp-content/uploads/2023/10/Docker-Logo.png" alt="JavaScript" width="80" height="80"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
