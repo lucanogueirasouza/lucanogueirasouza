@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I am working on personal/school projects to improve my skills
-- 📚 Currently learning Python, JavaScript, HTML5, CSS, Docker, Node.js (...)
+- 📚 Currently learning Python, JavaScript, HTML5, CSS, Docker, Node.js, AWS (...)
 - 🎯 Passionate about technology, logic and learning new things
 - 🎓 Full-Stack Developer in progress
 - 🎮 I enjoy playing video games in my free time
@@ -37,6 +37,7 @@
   <img src="https://logolook.net/wp-content/uploads/2023/10/Docker-Logo.png" alt="JavaScript" width="80" height="80"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
