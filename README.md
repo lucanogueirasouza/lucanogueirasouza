@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I am working on personal/school projects to improve my skills
-- 📚 Currently learning Python, JavaScript, HTML5, CSS, Docker, Node.js, AWS (...)
+- 📚 Currently learning Python, JavaScript, HTML5, CSS, Docker, Node.js, AWS, React.js (...)
 - 🎯 Passionate about technology, logic and learning new things
 - 🎓 Full-Stack Developer in progress
 - 🎮 I enjoy playing video games in my free time
