@@ -17,6 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I am working on personal/school projects to improve my skills
+- 🏢 I studied JavaScript at SENAI Swiss-Brazilian ; I am studying Systems Development at SEDUC-SP.
 - 📚 Currently learning Python, JavaScript, HTML5, CSS, Docker, Node.js, AWS, React.js (...)
 - 🎯 Passionate about technology, logic and learning new things
 - 🎓 Full-Stack Developer in progress
