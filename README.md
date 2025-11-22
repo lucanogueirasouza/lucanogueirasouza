@@ -22,7 +22,7 @@
 - 🎯 Passionate about technology, logic and learning new things
 - 🎓 Full-Stack Developer in progress
 - 🎮 I enjoy playing video games in my free time
-- 📖 Book lover — fantasy, classics, romance   
+- 📖 Book lover — fantasy, classics, romance, thriller´s...   
 
 ---
 
