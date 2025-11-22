@@ -46,11 +46,8 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 2rem;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanogueirasouza&layout=compact&langs_count=7&theme=midnight-purple" />
-</div>
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="650" />
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
 
