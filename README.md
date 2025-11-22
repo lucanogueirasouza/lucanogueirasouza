@@ -60,17 +60,17 @@
     <a href="https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple" />
     </a>
-    <a href="https://github.com/lucanogueirasouza/login-screen-for-websites">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=login-screen-for-websites&theme=midnight-purple" />
+    <a href="https://github.com/lucanogueirasouza/site-vidracaria">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=site-vidracaria&theme=midnight-purple" />
     </a>
   </div>
 
   <div style="display: flex; gap: 2rem;">
-    <a href="https://github.com/lucanogueirasouza/tamagotchi-game">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=tamagotchi-game&theme=midnight-purple" />
+    <a href="https://github.com/lucanogueirasouza/javascript-senai">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=javascript-senai&theme=midnight-purple" />
     </a>
-    <a href="https://github.com/lucanogueirasouza/alphabet/tree/main">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=alphabet&theme=midnight-purple" />
+    <a href="https://github.com/lucanogueirasouza/chatbot_saude">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=chatbot_saude&theme=midnight-purple" />
     </a>
   </div>
 
