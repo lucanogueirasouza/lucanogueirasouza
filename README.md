@@ -16,31 +16,18 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I am working on personal/school projects to improve my skills
-- 🏢 I studied JavaScript at SENAI Swiss-Brazilian ; I am studying Systems Development at SEDUC-SP.
-- 📚 Currently learning Python, JavaScript, HTML5, CSS, Docker, Node.js, AWS, React.js (...)
-- 🎯 Passionate about technology, logic and learning new things
-- 🎓 Full-Stack Developer in progress
-- 🎮 I enjoy playing video games in my free time
-- 📖 Book lover — fantasy, classics, romance, thriller´s...   
+- 🔭 Building practical projects that solve real problems and sharpen my skills  
+- 🏢 Background: SENAI Swiss-Brazilian (JavaScript); currently in Systems Development at SEDUC-SP  
+- 📚 Focused on Python, JavaScript, HTML/CSS, Node.js, React, Tailwind, Next.js, Docker, AWS  
+- 🧠 I like learning by doing, keeping code clean and organized  
+- 📖 Book lover (fantasy, classics, romance, thrillers) 
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="HTML" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://logolook.net/wp-content/uploads/2023/10/Docker-Logo.png" alt="JavaScript" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mongodb,firebase,docker,aws,react,tailwind,nextjs,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
