@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🌍 São Paulo, Brazil • 🧠 16 Years old • 💻 Full-Stack Developer  
+  🌍 São Paulo, Brazil • 🧠 17 Years old • 💻 Full-Stack Developer  
 </p>
 
 <div align="center">
