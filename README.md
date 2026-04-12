@@ -18,7 +18,7 @@
 
 - 🔭 Building practical projects that solve real problems and sharpen my skills  
 - 🏢 Background: SENAI Swiss-Brazilian (JavaScript); currently in Systems Development at SEDUC-SP  
-- 📚 Focused on Python, JavaScript, HTML/CSS, Node.js, React, Tailwind, Next.js, Docker, AWS  
+- 📚 Focused on Python, JavaScript, TypeScript, HTML/CSS, Node.js, React, Tailwind, Next.js, Docker, AWS  
 - 🧠 I like learning by doing, keeping code clean and organized  
 - 📖 Book lover (fantasy, classics, romance, thrillers) 
 
@@ -27,7 +27,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mongodb,firebase,docker,aws,react,tailwind,nextjs,git,github&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,mongodb,firebase,docker,aws,react,tailwind,nextjs,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -35,34 +35,6 @@
 ### 📊 GitHub Stats
 
 <img src="./profile-3d-contrib/profile-gitblock.svg" width="650" />
-
-
----
-
-### 🚧 Personal Projects
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
-
-  <div style="display: flex; gap: 2rem;">
-    <a href="https://github.com/lucanogueirasouza/project-bank-advanced-bootcamp-DIO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=project-bank-advanced-bootcamp-DIO&theme=midnight-purple" />
-    </a>
-    <a href="https://github.com/lucanogueirasouza/site-vidracaria">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=site-vidracaria&theme=midnight-purple" />
-    </a>
-  </div>
-
-  <div style="display: flex; gap: 2rem;">
-    <a href="https://github.com/lucanogueirasouza/javascript-senai">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=javascript-senai&theme=midnight-purple" />
-    </a>
-    <a href="https://github.com/lucanogueirasouza/chatbot_saude">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucanogueirasouza&repo=chatbot_saude&theme=midnight-purple" />
-    </a>
-  </div>
-
-</div>
-
 
 ---
 
